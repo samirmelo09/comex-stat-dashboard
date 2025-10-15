@@ -21,7 +21,7 @@ O painel foi desenvolvido com foco em visualização de dados, explorando indica
 - Power BI
 - Excel / CSV
 - GitHub
-- Google Colab
+- Google Colab: https://colab.research.google.com/drive/1mH1ID3x0-OeNTOnvRZWn4ocQMoPJli9Q?usp=sharing
 
 ## 📷 Visual do Dashboard
 <img width="875" height="487" alt="Comex" src="https://github.com/user-attachments/assets/7fc8a562-89ce-40e1-bfcb-18c08d4cfa82" />
